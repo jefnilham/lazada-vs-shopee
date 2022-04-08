@@ -45,5 +45,4 @@ Then, wait for the ranked output as follows.
 19  [Mix and Match] Cold Brew Coffee Concentrate b...   28.80  Shopee  13.0
 20  Nescafé Blend & Brew Original 3 in 1 Premix Co...   13.39  Shopee  14.0
 21  Wholesales 12 Pkt/ 24 Pkt Nescafe 3 in 1 White...    8.50  Shopee  15.0
-
 ```
