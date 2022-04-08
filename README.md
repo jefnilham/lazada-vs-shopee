@@ -16,4 +16,12 @@ Project is created with:
 * Variable handling
 	
 ## Setup
-To run this project, install it locally using npm:
+Install the required modules, then run the project. 
+'''
+Enter item to compare:
+'''
+I'll show my search as follows.
+'''
+Enter item to compare: nescafe 3 in 1 bundle
+'''
+
