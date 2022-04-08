@@ -16,13 +16,13 @@ Project is created with:
 * Variable handling
 	
 ## Setup
-Install the required modules, then run the project. 
+Install the required modules, then run the project. I'll show my search as follows.
 ```
-Enter item to compare:
+Enter item to compare: nescafe coffee 3 in 1
 ```
-I'll show my search as follows.
+Then, wait for the ranked output as follows.
 ```
-Enter item to compare: nescafe 3 in 1 bundle
+
 ```
 
 
