@@ -7,7 +7,7 @@ Compare your search item based on popularity on both platforms
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+Its common to check on multiple platforms before making an online purchase. I made this for myself for items I have already purchased before (recurring purchases like coffee).
 	
 ## Technologies
 Project is created with:
