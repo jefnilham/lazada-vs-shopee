@@ -1,5 +1,5 @@
 # Lazada-VS-Shopee 
-Compare your search item based on popularity on both platforms
+Compare a search item based on popularity on both platforms
 
 ## Table of contents
 * [General info](#general-info)
